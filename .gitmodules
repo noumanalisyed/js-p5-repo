@@ -1,3 +1,6 @@
 [submodule "datavisualisation-case-study-3"]
 	path = datavisualisation-case-study-3
 	url = https://github.com/noumanalisyed/datavisualisation-case-study-3.git
+[submodule "line_graph"]
+	path = line_graph
+	url = https://github.com/noumanalisyed/line_graph.git
